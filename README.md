@@ -40,6 +40,14 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
 <br/>
 <br/>
