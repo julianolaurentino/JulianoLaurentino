@@ -49,7 +49,7 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="180" 
+      height="150" 
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
@@ -59,7 +59,7 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=julianolaurentino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
