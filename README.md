@@ -54,13 +54,7 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 
 ### 📊 Estatísticas
 
-<div align="left">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=tokyonight" height="140" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=tokyonight" height="140"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=julianolaurentino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" height="140"/>
-  
-</div>
+| Estatísticas por ano | Linguagens Mais Usadas | Estatísticas Gerais |
+|---------------------|-----------------------|---------------|
+| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=tokyonight) | ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=tokyonight) | <img src="https://github-readme-stats.vercel.app/api?username=julianolaurentino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" height="150"/> |
 
