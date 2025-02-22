@@ -1,4 +1,4 @@
-# 👨‍💻 Juliano Laurentino ☯
+# 👨‍💻 Juliano Laurentino
 
 **`Analista de dados`**
 
