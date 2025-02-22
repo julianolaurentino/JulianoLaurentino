@@ -1,8 +1,8 @@
-# 👨‍💻 Juliano Laurentino
+# 👨‍💻 Juliano Laurentino ☯
 
 **`Analista de dados`**
 
-Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação no curso de Análise e Desenvolvimento de Sistemas e atualmente estou ingressando em minha pós graduação na área de engenharia de dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfólio de projetos em BI "[Juliano Laurentino](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)" e aqui no github.
+Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação no curso de Análise e Desenvolvimento de Sistemas e atualmente estou ingressando em minha pós graduação na área de engenharia de dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfólio de projetos em BI "[Juliano Laurentino](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)" e aqui no github. 
 
 ---
 
@@ -71,4 +71,3 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=julianolaurentino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
