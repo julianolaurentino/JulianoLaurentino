@@ -48,11 +48,17 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+<img 
+    align="left" 
+    alt="VS Code"
+    title="VS Code" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=merko&v=1" width="250"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=merko&v=1" width="250"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=merko&layout=compact&hide_border=true&v=1" width="315" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=merko" width="250"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=merko&v=1" width="250"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=merko&layout=compact&hide_border=true&v=1" width="315" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianolaurentino&theme=merko" width="825"/>
