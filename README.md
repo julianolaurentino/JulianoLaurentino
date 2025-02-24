@@ -56,3 +56,4 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=highcontrast&v=1) 
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=highcontrast&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=highcontrast&v=1)
