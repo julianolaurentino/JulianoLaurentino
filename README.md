@@ -18,6 +18,14 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 />
 <img 
     align="left" 
+    alt="DBeaver"
+    title="DBeaver" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+/>
+<img 
+    align="left" 
     alt="Python"
     title="Python" 
     width="30px" 
