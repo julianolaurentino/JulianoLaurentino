@@ -30,7 +30,7 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     title="Jupyter Notebook" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
 <img 
     align="left" 
