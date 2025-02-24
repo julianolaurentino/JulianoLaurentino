@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação no curso de Análise e Desenvolvimento de Sistemas e atualmente estou ingressando em minha pós graduação na área de engenharia de dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfólio de projetos em BI "[Portfólio](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)" e aqui no github. 
+Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação no curso de Análise e Desenvolvimento de Sistemas e atualmente estou ingressando em minha pós graduação no curso de Engenharia de Dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfólio de projetos em BI "[Portfólio](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)" e aqui no github. 
 
 ---
 
