@@ -10,14 +10,6 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 
 <img 
     align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img 
-    align="left" 
     alt="Sql Server"
     title="Sql Server" 
     width="30px" 
@@ -55,6 +47,22 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI" 
+    width="22px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true"
+/>
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 
 <br/>
