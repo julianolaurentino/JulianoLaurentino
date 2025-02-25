@@ -2,28 +2,11 @@
 
 **`Analista de dados`**
 
-Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação no curso de Análise e Desenvolvimento de Sistemas e atualmente estou ingressando em minha pós graduação na área de engenharia de dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfólio de projetos em BI "[Juliano Laurentino](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)" e aqui no github. 
+Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação no curso de Análise e Desenvolvimento de Sistemas e atualmente estou ingressando em minha pós graduação no curso de Engenharia de Dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfólio de data visualization "[Portfólio - Data Visualization ](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)" e aqui no github. 
 
 ---
 
 ### 🤖 Linguagens e Ferramentas
-
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Sql Server"
-    title="Sql Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/>
 <img 
     align="left" 
     alt="Python"
@@ -38,7 +21,31 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     title="Jupyter Notebook" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Sql Server"
+    title="Sql Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Google Cloud"
+    title="Google Cloud" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+/>
+<img 
+    align="left" 
+    alt="DBeaver"
+    title="DBeaver" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
 />
 <img 
     align="left" 
@@ -48,26 +55,33 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+<img 
+    align="left" 
+    alt="VS Code"
+    title="VS Code" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI" 
+    width="22px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true"
+/>
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
-
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="150" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="160" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=julianolaurentino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=dracula&v=1" width="250"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=dracula&v=1" width="250"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=dracula&layout=compact&hide_border=true&v=1" width="315" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianolaurentino&theme=dracula&v=1" width="824"/>
