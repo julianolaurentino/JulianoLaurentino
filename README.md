@@ -84,4 +84,8 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 <br/>
 
 ### 📊 Estatísticas
+<<<<<<< HEAD
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=dracula&v=1" width="250"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=dracula&v=1" width="250"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=dracula&layout=compact&hide_border=true&v=1" width="315" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianolaurentino&theme=dracula&v=1" width="824"/>
+=======
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=gotham&v=1" width="250"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=gotham&v=1" width="250"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=gotham&layout=compact&hide_border=true&v=1" width="315" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianolaurentino&theme=gotham&v=1" width="824"/>
+>>>>>>> 9ba9c134e654ca10f6768745a594250d2775bb15
