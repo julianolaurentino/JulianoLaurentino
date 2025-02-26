@@ -11,7 +11,7 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     align="left" 
     alt="Python"
     title="Python" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 />
@@ -19,7 +19,7 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     align="left" 
     alt="Jupyter Notebook"
     title="Jupyter Notebook" 
-    width="30px" 
+    width="32px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
@@ -35,17 +35,17 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     align="left" 
     alt="Google Cloud"
     title="Google Cloud" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
 />
 <img 
     align="left" 
-    alt="DBeaver"
-    title="DBeaver" 
+    alt="Databricks"
+    title="Databricks" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+    src="https://github.com/julianolaurentino/databricks-logo/blob/main/databricks-icon-seeklogo.png"
 />
 <img 
     align="left" 
