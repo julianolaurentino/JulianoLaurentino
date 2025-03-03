@@ -57,6 +57,14 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 />
 <img 
     align="left" 
+    alt="Alteryx"
+    title="Alteryx" 
+    width="38px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/julianolaurentino/alteryx-logo/blob/main/Untitled%20(2).png"
+/>
+<img 
+    align="left" 
     alt="Git"
     title="Git" 
     width="30px" 
