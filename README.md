@@ -47,6 +47,14 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/databricks-logo/blob/main/databricks-icon-seeklogo.png"
 />
+<img
+    align="left"
+    alt="KNIME"
+    title="KNIME"
+    width="32px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/knime.svg"
+/>
 <img 
     align="left" 
     alt="Git"
