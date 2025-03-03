@@ -79,6 +79,14 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     style="padding-right: 10px;" 
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true"
 />
+<img
+    align="left"
+    alt="Tableau"
+    title="Tableau"
+    width="38px"
+    style="padding-right: 10px;"
+    src="https://github.com/julianolaurentino/tableau-png/blob/main/Untitled%20(1).png"
+/>
 <img 
     align="left" 
     alt="Figma"
