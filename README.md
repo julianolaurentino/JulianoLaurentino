@@ -49,14 +49,6 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
 />
 <img 
     align="left" 
-    alt="KNIME"
-    title="KNIME" 
-    width="38px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/julianolaurentino/knime-logo/blob/main/Untitled.png"
-/>
-<img 
-    align="left" 
     alt="Alteryx"
     title="Alteryx" 
     width="38px" 
