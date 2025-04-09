@@ -27,9 +27,17 @@ Me chamo Juliano Laurentino, sou natural do Ceará. Concluí minha graduação n
     align="left" 
     alt="Sql Server"
     title="Sql Server" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Dbeaver"
+    title="Dbeaver" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
 />
 <img 
     align="left" 
