@@ -65,19 +65,19 @@ Me chamo Juliano Laurentino. Concluí minha graduação no curso de Análise e D
 />
 <img 
     align="left" 
-    alt="Streamlit"
-    title="Streamlit" 
-    width="38px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
-/>
-<img 
-    align="left" 
     alt="VS Code"
     title="VS Code" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Streamlit"
+    title="Streamlit" 
+    width="38px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
 />
 <img 
     align="left" 
