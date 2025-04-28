@@ -43,7 +43,7 @@ Me chamo Juliano Laurentino. Concluí minha graduação no curso de Análise e D
     align="left" 
     alt="Databricks"
     title="Databricks" 
-    width="30px" 
+    width="36px" 
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/databricks-logo/blob/main/databricks-icon-seeklogo.png"
 />
