@@ -41,19 +41,19 @@ Me chamo Juliano Laurentino. Concluí minha graduação no curso de Análise e D
 />
 <img 
     align="left" 
-    alt="Google Cloud"
-    title="Google Cloud" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
-/>
-<img 
-    align="left" 
     alt="Databricks"
     title="Databricks" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/databricks-logo/blob/main/databricks-icon-seeklogo.png"
+/>
+<img 
+    align="left" 
+    alt="Jenkins"
+    title="Jenkins" 
+    width="38px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />
 <img 
     align="left" 
