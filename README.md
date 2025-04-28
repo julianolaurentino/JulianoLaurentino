@@ -57,11 +57,11 @@ Me chamo Juliano Laurentino. Concluí minha graduação no curso de Análise e D
 />
 <img 
     align="left" 
-    alt="Alteryx"
-    title="Alteryx" 
-    width="38px" 
+    alt="Airflow"
+    title="Airflow" 
+    width="34px" 
     style="padding-right: 10px;" 
-    src="https://github.com/julianolaurentino/alteryx-logo/blob/main/Untitled%20(2).png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
 />
 <img 
     align="left" 
