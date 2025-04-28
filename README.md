@@ -17,11 +17,11 @@ Me chamo Juliano Laurentino. Concluí minha graduação no curso de Análise e D
 />
 <img 
     align="left" 
-    alt="Jupyter Notebook"
-    title="Jupyter Notebook" 
+    alt="Pandas"
+    title="Pandas" 
     width="32px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
 <img 
     align="left" 
