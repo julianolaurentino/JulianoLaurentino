@@ -65,11 +65,11 @@ Me chamo Juliano Laurentino. Concluí minha graduação no curso de Análise e D
 />
 <img 
     align="left" 
-    alt="VS Code"
-    title="VS Code" 
-    width="30px" 
+    alt="Docker"
+    title="Docker" 
+    width="46px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 <img 
     align="left" 
