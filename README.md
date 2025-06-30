@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Me chamo Juliano Laurentino. Atualmente estou ingressando em minha pós graduação no curso de Engenharia de Dados. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu portfólio de data visualization [Portfólio - Data Viz](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)
+Me chamo Juliano Laurentino. Atualmente estou estudando curnsao pós graduação no curso de Engenharia de Dados. Trabalho como analista de dados e compartilho meu conhecimento através do meu portfólio de data visualization [Portfólio - Data Viz](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio)
 
 ---
 
