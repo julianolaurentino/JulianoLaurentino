@@ -49,6 +49,14 @@ Me chamo Juliano Laurentino. Atualmente estou estudando curnsao pós graduação
 />
 <img 
     align="left" 
+    alt="Knime"
+    title="Knime" 
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/julianolaurentino/knime-logo/blob/main/og-image-256.png"
+/>
+<img 
+    align="left" 
     alt="Jenkins"
     title="Jenkins" 
     width="38px" 
