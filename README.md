@@ -51,7 +51,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando curnsao pós graduação
     align="left" 
     alt="Knime"
     title="Knime" 
-    width="36px" 
+    width="44px" 
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/knime-logo/blob/main/Untitled.png"
 />
