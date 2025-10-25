@@ -33,14 +33,6 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 />
 <img 
     align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="46px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-<img 
-    align="left" 
     alt="Databricks"
     title="Databricks" 
     width="36px" 
@@ -57,14 +49,6 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 />
 <img 
     align="left" 
-    alt="Jenkins"
-    title="Jenkins" 
-    width="38px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
-/>
-<img 
-    align="left" 
     alt="Airflow"
     title="Airflow" 
     width="34px" 
@@ -78,14 +62,6 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     width="46px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Streamlit"
-    title="Streamlit" 
-    width="38px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
 />
 <img 
     align="left" 
