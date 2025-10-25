@@ -11,7 +11,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Python"
     title="Python" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 />
@@ -43,7 +43,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Knime"
     title="Knime" 
-    width="30px" 
+    width="34px" 
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/knime-logo/blob/main/Untitled.png"
 />
