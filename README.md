@@ -75,7 +75,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left"
     alt="Tableau"
     title="Tableau"
-    width="22px"
+    width="30px"
     style="padding-right: 10px;"
     src="https://github.com/julianolaurentino/tableau-png/blob/main/Untitled%20(1).png"
 />
