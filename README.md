@@ -33,24 +33,24 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 />
 <img
     align="left"
-    alt="Tableau"
-    title="Tableau"
+    alt="PostgreSQL"
+    title="PostgreSQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
-    alt="Databricks"
-    title="Databricks" 
-    width="38px" 
+    alt="VSCode"
+    title="VSCode" 
+    width="32px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img 
     align="left" 
-    alt="Knime"
-    title="Knime" 
+    alt="DuckDB"
+    title="DuckDB" 
     width="36px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg"
@@ -73,8 +73,8 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 />
 <img 
     align="left" 
-    alt="Power BI"
-    title="Power BI" 
+    alt="Streamlit"
+    title="Streamlit" 
     width="38px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
