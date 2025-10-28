@@ -13,7 +13,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     title="Python" 
     width="38px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img 
     align="left" 
