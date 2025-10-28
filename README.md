@@ -11,7 +11,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Python"
     title="Python" 
-    width="40px" 
+    width="38px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 />
@@ -35,7 +35,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Databricks"
     title="Databricks" 
-    width="28px" 
+    width="38px" 
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/databricks-logo/blob/main/databricks-icon-seeklogo.png"
 />
@@ -67,7 +67,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Power BI"
     title="Power BI" 
-    width="22px" 
+    width="38px" 
     style="padding-right: 10px;" 
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true"
 />
