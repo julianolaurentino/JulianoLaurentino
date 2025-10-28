@@ -37,15 +37,15 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     title="Databricks" 
     width="38px" 
     style="padding-right: 10px;" 
-    src="https://github.com/julianolaurentino/databricks-logo/blob/main/databricks-icon-seeklogo.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img 
     align="left" 
     alt="Knime"
     title="Knime" 
-    width="32px" 
+    width="36px" 
     style="padding-right: 10px;" 
-    src="https://github.com/julianolaurentino/knime-logo/blob/main/Untitled.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg"
 />
 <img 
     align="left" 
@@ -69,7 +69,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     title="Power BI" 
     width="38px" 
     style="padding-right: 10px;" 
-    src="https://github.com/julianolaurentino/powerbilogo/blob/main/New_Power_BI_Logo.svg.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
 />
 <img
     align="left"
@@ -77,7 +77,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     title="Tableau"
     width="30px"
     style="padding-right: 10px;"
-    src="https://github.com/julianolaurentino/tableau-png/blob/main/Untitled%20(1).png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
