@@ -31,6 +31,14 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
 />
+<img
+    align="left"
+    alt="Tableau"
+    title="Tableau"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 <img 
     align="left" 
     alt="Databricks"
@@ -70,14 +78,6 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     width="38px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
-/>
-<img
-    align="left"
-    alt="Tableau"
-    title="Tableau"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
