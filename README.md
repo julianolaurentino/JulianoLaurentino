@@ -69,7 +69,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     title="Power BI" 
     width="38px" 
     style="padding-right: 10px;" 
-    src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true"
+    src="https://github.com/julianolaurentino/powerbilogo/blob/main/New_Power_BI_Logo.svg.png"
 />
 <img
     align="left"
