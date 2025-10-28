@@ -81,6 +81,14 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 />
 <img 
     align="left" 
+    alt="Plotly"
+    title="Plotly" 
+    width="34px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+/>
+<img 
+    align="left" 
     alt="Figma"
     title="Figma" 
     width="30px" 
