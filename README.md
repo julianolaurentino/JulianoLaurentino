@@ -35,7 +35,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Databricks"
     title="Databricks" 
-    width="30px" 
+    width="28px" 
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/databricks-logo/blob/main/databricks-icon-seeklogo.png"
 />
@@ -43,7 +43,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Knime"
     title="Knime" 
-    width="34px" 
+    width="32px" 
     style="padding-right: 10px;" 
     src="https://github.com/julianolaurentino/knime-logo/blob/main/Untitled.png"
 />
