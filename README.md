@@ -91,6 +91,8 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=highcontrast&v=1" width="250"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=highcontrast&v=1" width="250"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianolaurentino&theme=highcontrast&layout=compact&hide_border=true&v=1" width="315" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianolaurentino&theme=highcontrast&v=1" width="824"/>
