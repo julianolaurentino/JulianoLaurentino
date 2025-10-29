@@ -27,7 +27,7 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
     align="left" 
     alt="Jupyter Notebook"
     title="Jupyter Notebook" 
-    width="32px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
 />
