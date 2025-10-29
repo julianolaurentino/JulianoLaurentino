@@ -57,6 +57,14 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 />
 <img 
     align="left" 
+    alt="GCP"
+    title="GCP" 
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+/>
+<img 
+    align="left" 
     alt="VSCode"
     title="VSCode" 
     width="32px" 
