@@ -75,7 +75,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Airflow"
     title="Airflow" 
-    width="25px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
 />
