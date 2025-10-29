@@ -25,6 +25,14 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 />
 <img 
     align="left" 
+    alt="Jupyter Notebook"
+    title="Jupyter Notebook" 
+    width="32px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+/>
+<img 
+    align="left" 
     alt="Dbeaver"
     title="Dbeaver" 
     width="32px" 
@@ -41,19 +49,19 @@ Me chamo Juliano Laurentino. Atualmente estou estudando cursando pós graduaçã
 />
 <img 
     align="left" 
-    alt="VSCode"
-    title="VSCode" 
-    width="32px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img 
-    align="left" 
     alt="DuckDB"
     title="DuckDB" 
     width="36px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg"
+/>
+<img 
+    align="left" 
+    alt="VSCode"
+    title="VSCode" 
+    width="32px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img 
     align="left" 
