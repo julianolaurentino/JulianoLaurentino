@@ -11,7 +11,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Python"
     title="Python" 
-    width="38px" 
+    width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -19,7 +19,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Pandas"
     title="Pandas" 
-    width="32px" 
+    width="37px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
@@ -27,7 +27,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Jupyter Notebook"
     title="Jupyter Notebook" 
-    width="35px" 
+    width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
 />
@@ -35,7 +35,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Dbeaver"
     title="Dbeaver" 
-    width="32px" 
+    width="37px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
 />
@@ -43,7 +43,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left"
     alt="PostgreSQL"
     title="PostgreSQL"
-    width="30px"
+    width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
@@ -51,7 +51,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="DuckDB"
     title="DuckDB" 
-    width="36px" 
+    width="41px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg"
 />
@@ -59,7 +59,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="GCP"
     title="GCP" 
-    width="36px" 
+    width="41px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
 />
@@ -67,7 +67,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="VSCode"
     title="VSCode" 
-    width="32px" 
+    width="38px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
@@ -75,7 +75,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Airflow"
     title="Airflow" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
 />
@@ -83,7 +83,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="44px" 
+    width="49px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
@@ -91,7 +91,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Streamlit"
     title="Streamlit" 
-    width="38px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
 />
@@ -99,7 +99,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Plotly"
     title="Plotly" 
-    width="34px" 
+    width="39px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
 />
@@ -107,7 +107,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Figma"
     title="Figma" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
