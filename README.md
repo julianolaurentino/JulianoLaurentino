@@ -27,7 +27,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Pyspark"
     title="Pyspark" 
-    width="37px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
 />
