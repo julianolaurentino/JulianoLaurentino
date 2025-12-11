@@ -74,7 +74,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 <img 
     align="left" 
     alt="Git"
-    title="VGit" 
+    title="Git" 
     width="38px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
