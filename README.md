@@ -57,14 +57,6 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 />
 <img 
     align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="41px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-    align="left" 
     alt="GCP"
     title="GCP" 
     width="41px" 
@@ -91,7 +83,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="49px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
