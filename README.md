@@ -1,6 +1,6 @@
 # 👨‍💻 Juliano Laurentino
 
-**`Analista de dados`**
+**`Analytics Engineer`**
 
 Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso de Engenharia de Dados. Trabalho como analista de dados e compartilho meu conhecimento através do meu portfólio [Portfólio](https://sites.google.com/view/portfoliojulianolaurentino/in%C3%ADcio) e de projetos de engenharia [Medium - Data Engineering](https://medium.com/@julianolaurentino)
 
