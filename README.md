@@ -116,4 +116,22 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 <br/>
 
 ### 📊 Estatísticas
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianolaurentino&theme=panda&v=1" width="260"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianolaurentino&theme=panda&v=1" width="260"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=julianolaurentino&theme=panda&v=1" width="260"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianolaurentino&theme=panda&v=1" width="790"/>
+
+<p>
+    <div align="left">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianolaurentino&show_icons=true&theme=monokai&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height='180'    
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=monokai"
+     />
+    </div>
+</p>
+
+
+</p>
+
+</p>
