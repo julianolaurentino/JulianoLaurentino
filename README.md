@@ -121,12 +121,12 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     <div align="left">
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianolaurentino&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=obz2n&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height='180'    
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianolaurentino&theme=onedark"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obz2n&theme=onedark"
      />
     </div>
 </p>
