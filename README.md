@@ -29,7 +29,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     title="Jupyter Notebook" 
     width="42px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
 <img 
     align="left" 
@@ -54,6 +54,14 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     width="41px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg"
+/>
+<img 
+    align="left" 
+    alt="MariaDB"
+    title="MariaDB" 
+    width="41px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
 />
 <img 
     align="left" 
@@ -94,14 +102,6 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Plotly"
-    title="Plotly" 
-    width="39px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
 />
 <img 
     align="left" 
