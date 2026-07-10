@@ -11,7 +11,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,jupyter,dbtlabs,dbeaver,postgres,duckdb,mariadb,azure,git,airflow,docker,streamlit,figma)
 
  ### 🛠 Meus principais projetos
-- [01 - Pipeline ELT com Python + DBT + Airflow](https://github.com/obz2n/python_pipeline_anac.git)
+- [01 - Projeto ANAC - Pipeline ELT com Python + DBT + Airflow](https://github.com/obz2n/python_pipeline_anac.git)
 
 
 ### 📊 Estatísticas
