@@ -7,113 +7,12 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 ---
 
 ### 🤖 Linguagens e Ferramentas
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Pandas"
-    title="Pandas" 
-    width="37px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Jupyter Notebook"
-    title="Jupyter Notebook" 
-    width="42px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Dbeaver"
-    title="Dbeaver" 
-    width="37px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-/>
-<img
-    align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="35px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="DuckDB"
-    title="DuckDB" 
-    width="41px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MariaDB"
-    title="MariaDB" 
-    width="41px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Azure"
-    title="Azure" 
-    width="41px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="38px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Airflow"
-    title="Airflow" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Streamlit"
-    title="Streamlit" 
-    width="43px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
+ 
+ ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,jupyter,dbtlabs,dbeaver,postgres,duckdb,mariadb,azure,git,airflow,docker,streamlit,figma)
 
-<br/>
-<br/>
+ ### 🛠 Meus principais projeto
+- [01 - Projeto de engenharia de dados com Python + DBT + Airflow]([./Projetos/Engenharia%20Anal%C3%ADtica/01%20-%20Projetos%20Desenvolvimento%20Web%20e%20Dashboard%20Python](https://github.com/obz2n/python_pipeline_anac))
+
 
 ### 📊 Estatísticas
 
