@@ -14,19 +14,18 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 - [01 - Projeto ingestão mensal ANAC - Pipeline ELT com Python + DBT + Airflow](https://github.com/obz2n/python_pipeline_anac.git)
 - [02 - Projeto API Aic - Pipeline ELT com Python + DBT + Prefect](https://github.com/obz2n/python_pipeline_aic.git)
 
-
 ### 📊 Estatísticas
 
 <p>
     <div align="left">
       <img
         height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=obz2n&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=obz2n&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
       />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img
         height='180'    
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obz2n&theme=onedark"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=obz2n&layout=compact&theme=dark"
      />
     </div>
 </p>
