@@ -2,7 +2,7 @@
 
 **`Analytics Engineer`**
 
-Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso de Engenharia de Dados. Por aqui você verá projetos de dados e talves gambiarras em Python e SQL.
+Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso de Engenharia de Dados. Por aqui você verá projetos de dados em Python e SQL.
 
 ---
 
