@@ -13,6 +13,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
  ### 🛠 Meus principais projetos
 - [01 - Projeto ingestão mensal ANAC - Pipeline ELT com Python + DBT + Airflow](https://github.com/obz2n/python_pipeline_anac.git)
 - [02 - Projeto API Aic - Pipeline ELT com Python + DBT + Prefect](https://github.com/obz2n/python_pipeline_aic.git)
+- [03 - Projeto Qualidade de dados - Pipeline de qualidade com Python + Airflow + Streamlit](https://github.com/obz2n/python_data_quality.git)
 
 ### 📊 Estatísticas
 
