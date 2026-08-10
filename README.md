@@ -26,8 +26,8 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
         src="https://github-stats-extended.vercel.app/api?username=obz2n&show_icons=true&include_all_commits=true&theme=chartreuse-dark"
      />
       <img
-        height='280'    
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=obz2n&layout=compact&theme=chartreuse-dark"
+        height='200'    
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=obz2n&langs_count=6&theme=chartreuse-dark"
      />
     </div>
 </p>
