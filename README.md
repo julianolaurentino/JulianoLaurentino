@@ -21,13 +21,12 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
 
 <p>
     <div align="left">
+     <img
+        height='380'    
+        src="https://gh-readme-profile.vercel.app/api?username=obz2n&theme=dark"
+     />
       <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=obz2n&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
-        height='180'    
+        height='280'    
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=obz2n&layout=compact&theme=dark"
      />
     </div>
