@@ -23,7 +23,7 @@ Me chamo Juliano Laurentino. Atualmente estou cursando pós graduação no curso
     <div align="left">
      <img
         height='380'    
-        src="https://gh-readme-profile.vercel.app/api?username=obz2n&theme=dark"
+        src="https://github-stats-extended.vercel.app/api?username=obz2n&theme=dark"
      />
       <img
         height='280'    
